@@ -62,4 +62,7 @@ This project implements image encryption and decryption using the AES (Advanced 
     pip install cryptography
     ```
 4. Run the script:
+ ```bash
      python image_encryption.py
+    ```
+    
